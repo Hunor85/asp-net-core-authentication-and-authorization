@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_auth_basics", "001_auth_basics.csproj", "{DC858D4A-168A-4D6F-A3B3-9F321527C55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC858D4A-168A-4D6F-A3B3-9F321527C55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC858D4A-168A-4D6F-A3B3-9F321527C55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC858D4A-168A-4D6F-A3B3-9F321527C55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC858D4A-168A-4D6F-A3B3-9F321527C55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
